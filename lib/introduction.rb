@@ -1,8 +1,8 @@
-#introduction(name)
+# def introduction(name)
 #   puts "Hi, my name is #{Lakisha}."
 #end
 
-#introduction_with_language(name,language)
+# def introduction_with_language(name,language)
 #   puts "Hi, my name is #{Lakisha} and I am learning to program in #{Ruby}."
 #end
 
